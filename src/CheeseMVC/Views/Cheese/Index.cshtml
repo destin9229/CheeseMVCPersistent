@@ -1,28 +1,43 @@
-﻿@model List<CheeseMVC.Models.Cheese>
+﻿@model IEnumerable<CheeseMVC.Models.Cheese>
 
-<h1>@ViewBag.Title</h1>
-
-<table class="table">
-
-    <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <td>Type</td>
-    </tr>
-
-    @foreach (var cheese in Model)
-    {
-        <tr>
-            <td>@cheese.Name</td>
-            <td>@cheese.Description</td>
-            <td>@cheese.Type</td>
-        </tr>
-    }
-</table>
-
-@if (Model.Count == 0)
-{
-    <p>No cheeses yet!</p>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<p><a asp-controller="Cheese" asp-action="Add">Add Cheese</a></p>
+<h2>Index</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Cheese" asp-action="Add">Add</a> | <a asp-controller="Cheese" asp-action="Remove">Remove</a>
