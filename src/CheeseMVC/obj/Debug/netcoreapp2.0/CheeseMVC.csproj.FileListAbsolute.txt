@@ -1,0 +1,11 @@
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.deps.json
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.runtimeconfig.json
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.runtimeconfig.dev.json
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.dll
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.pdb
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.csprojAssemblyReference.cache
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.csproj.CoreCompileInputs.cache
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.AssemblyInfoInputs.cache
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.AssemblyInfo.cs
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.dll
+C:\Users\Destin Attapallil\source\repos\LaunchCodeEducation\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.pdb
